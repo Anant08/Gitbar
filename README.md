@@ -1,0 +1,2 @@
+# Gitbar
+Git for lawyers
